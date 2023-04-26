@@ -1,8 +1,15 @@
 # Learn-Flexbox-CSS
-Now you can run the project with this command
+html code example
 
 ```
-python manage.py runserver
+<body>
+    <div class="container">
+        <div class="item item-1">Item-1</div>
+        <div class="item item-2">Item-2</div>
+        <div class="item item-3">Item-3</div>
+        <div class="item item-4">Item-4</div>
+    </div>
+</body>
 ```
 
 <br>
