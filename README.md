@@ -11,6 +11,46 @@ html code example
     </div>
 </body>
 ```
+css code example
+```
+body{
+    background-color: rgb(114, 69, 158);
+}
+.container{
+    width: 50%;
+    height: 700px;
+    border: solid black;
+
+}
+.item-1{
+    width: 100px;
+    height: 100px;
+    border: solid black;
+    color: white;
+    background-color: red;
+    
+}
+.item-2{
+    width: 100px;
+    height: 100px;
+    border: solid black;
+    color: white;
+    background-color: red;
+}
+.item-3{
+    width: 100px;
+    height: 100px;
+    border: solid black;
+    color: white;
+    background-color: red;
+}
+.item-4{
+    width: 100px;
+    height: 100px;
+    border: solid black;
+    color: white;
+    background-color: red;
+```
 
 <br>
 
