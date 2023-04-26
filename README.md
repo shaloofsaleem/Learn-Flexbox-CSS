@@ -65,7 +65,7 @@ body{
 <p align="center">
 Light Mode
 </p>
-<img src="https://github.com/Jauharmuhammed/README-Template/blob/main/assets/light%20Mode.png">  
+<img src="https://github.com/shaloofsaleem/Learn-Flexbox-CSS/blob/main/pictures/Screenshot%20from%202023-04-26%2023-22-47.png?raw=true">  
 </td>
   <td width="50%">      
 <p align="center">
